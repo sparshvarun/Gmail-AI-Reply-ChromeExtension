@@ -1,4 +1,4 @@
-<h1 align="center">🚀 AI Email Reply Generator 🚀</h1>
+<h1 align="center">🚀 Gmail Genius - AI Email Reply Generator 🚀</h1>
 
 
 
