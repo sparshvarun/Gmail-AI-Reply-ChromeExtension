@@ -1,5 +1,16 @@
 <h1 align="center">🚀 AI Email Reply Generator 🚀</h1>
 
+
+
+https://github.com/user-attachments/assets/ec6ab483-c0fe-417d-bba3-e3f1e7f770d8
+
+
+<img width="1440" alt="Screenshot 2025-01-15 at 3 55 56 PM" src="https://github.com/user-attachments/assets/f7bd094d-a5f3-4993-9e40-081e0ceee7d3" />
+
+<img width="1440" alt="Screenshot 2025-01-15 at 3 56 34 PM" src="https://github.com/user-attachments/assets/b6fd2f5b-b92f-4bd5-bcbf-2d23823259e7" />
+
+
+
 <p align="center">
     This project showcases building an AI-powered email reply generator using Spring Boot and a Chrome extension for Gmail integration.
 </p>
